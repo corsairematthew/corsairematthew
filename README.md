@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/%E2%93%98-white?style=for-the-badge&label=Inteligence%20quotient%20146&labelColor=white&link=ghfhf)  
+![Static Badge](https://img.shields.io/badge/%E2%93%98-white?style=for-the-badge&label=Intelligence%20quotient%20146&labelColor=white&link=ghfhf)  
 
   
   
