@@ -1,3 +1,4 @@
 ![Static Badge](https://img.shields.io/badge/enthusiast-white?style=flat&logo=github&label=github&labelColor=grey&color=white)
 ![Static Badge](https://img.shields.io/badge/istp_3w2-yellow?style=flat)
-![Static Badge](https://img.shields.io/badge/full--time-dot?style=flat&logo=googlecloud&logoColor=grey&label=Google%20Cloud&labelColor=%23e4e9f7&color=%23172a5c)
+![Static Badge](https://img.shields.io/badge/full--time-dot?style=flat&logo=googlecloud&logoColor=grey&label=Google%20Cloud&labelColor=%23e4e9f7&color=%23172a5c)  
+![Static Badge](https://img.shields.io/badge/_%E2%93%98-white?style=flat-square&label=Inteligence%20quotient%20147&labelColor=white)
